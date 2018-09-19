@@ -112,21 +112,26 @@ input{
 }
 h3{
     color: white;
+    font-size: 1.1em;
+    padding: 0.2em;
 }
 .botonVerde{
     background-color: #70c7be;
     border: #70c7be;
     color: white;
+    padding: 1em;
 }
 .botonAzul{
     background-color: #7f92cf;
     border: #7f92cf;
     color: white;
+    padding: 1em;
 }
 .botonMorado{
     background-color: #9d7ed0;
     border: #9d7ed0;
     color: white;
+    padding: 1em;
 }
 .footer-content{
     background-color: #1b1b1f;
